@@ -30,14 +30,6 @@ No extra libraries or tools. Just a clean script doing the job.
 
 ---
 
-## Project overview
-
-The diagram below shows how the tool works from start to finish:
-
-![Architecture](images/architecture.png)
-
----
-
 ## Future ideas
 
 While this version runs manually, it’s built to support more features like:
